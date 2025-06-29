@@ -1,0 +1,28 @@
+# Logs
+**/logs
+**/*.log
+**/npm-debug.log*
+
+# Dependency directories
+**/node_modules/
+**/dist/
+**/build/
+
+# Environment variables
+**/.env
+**/.env.local
+
+# IDE & OS
+.vscode/
+.DS_Store
+*.swp
+*.swo
+
+# Optional - coverage & test
+**/coverage/
+**/jest-cache/
+**/jest-config/
+
+# Optional - output folders for pm2 or other runners
+**/pids/
+**/tmp/
